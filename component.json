@@ -1,0 +1,14 @@
+{
+  "name": "lang",
+  "repo": "forabi/lang",
+  "description": "Language negotiation component for browser",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

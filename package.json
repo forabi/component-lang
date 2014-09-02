@@ -1,0 +1,21 @@
+{
+  "name": "lang",
+  "version": "0.0.1",
+  "description": "Language negotiation component for browser",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/forabi/component-lang.git"
+  },
+  "keywords": [
+    "language",
+    "negotiation",
+    "locale"
+  ],
+  "author": "Muhammad Fawwaz Orabi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/forabi/component-lang/issues"
+  },
+  "homepage": "https://github.com/forabi/component-lang",
+}
