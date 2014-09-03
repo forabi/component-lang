@@ -29,7 +29,7 @@ navigator.language; // 'ar-SY'
 best(['en', 'en-US', 'ar-SY']);       // 'ar-SY'
 best(['en', 'en-US', 'ar-SA']);       // 'ar-SA'
 best(['en', 'en-US', 'ar']);          // 'en-US'
-best(['en', 'en-US', 'ar'], 'ar');    // 'ar' (fallback)
+best(['en', 'en-US', 'ar'], 'ar');    // 'en-US'
 
 ```
 
